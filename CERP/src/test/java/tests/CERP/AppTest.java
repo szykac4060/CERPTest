@@ -7,6 +7,11 @@ import junit.framework.TestSuite;
     {
         return new TestSuite( AppTest.class );
     }
+asdf
+asdf
+asd
+f
+dasf
 
     /**
      * Rigourous Test :-)
