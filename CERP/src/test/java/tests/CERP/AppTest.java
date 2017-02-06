@@ -8,7 +8,8 @@ import junit.framework.TestSuite;
         asdfasdf
         return new TestSuite( AppTest.class );
     }
-
+dasfdasf
+asdfdasffdas
    sdfsdf
    
     public voasdfasdfid testApp()
