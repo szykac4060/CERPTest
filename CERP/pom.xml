@@ -9,6 +9,7 @@
     sdfgsdfg
 
         <artifactId>selenium-java</artifactId>
+    asdfasdf
         <version>2.42.2</version>
 <dependency>
   <groupId>junit</groupId>
@@ -21,6 +22,8 @@
       <artifactId>testng</artifactId>
       <version>6.8.7</version>
       <scope>test</scope>
+   asdfasdf
+   asdfasdf
     </dependency>
          <dependency>
         <groupId>org.apache.maven.surefire</groupId>
